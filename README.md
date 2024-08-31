@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, Welcome! 
 
-<!--
-**chuns29/chuns29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Chung Duong. I am from Hanoi University of Science and Technology taking Computer Engineering
 
-Here are some ideas to get you started:
+I'm passionate about creating software and bringing ideas to life on the App Store. Currently, I'm diving deep into the world of mobile development, focusing on Swift and Java. As I continue to learn and grow, I'm excited to share my journey and projects with you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love to join different community and competition that involve creating something for the society
+
+- 🔭 I’m currently working on this page
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: chuns29 (Tiktok, Instagram) 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My nickname is a stylized version of my real name (Chung). 
+
